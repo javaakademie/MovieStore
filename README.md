@@ -4,7 +4,7 @@ Aus letzterem wird ein Vorschaubild für die Liste extrahiert und es kann direkt
 
 Verwendet wird die Referenzimplementierung Ozark und die Anwendung ist auf dem WildFly 10 lauffähig. 
 
-<p align="center">
+<p align="center"><br/>
   <img src="https://github.com/javaakademie/MovieStore/blob/master/preview.png" border="0">
 </p>
 
