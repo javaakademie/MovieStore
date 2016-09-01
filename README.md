@@ -1,7 +1,5 @@
 # MovieStore
-Java EE 8 MVC 1.0 - Beispielanwendung zur Erfassung von Videos unter Hinzunahme des entsprechenden YouTube-Links. 
-Aus letzterem wird ein Vorschaubild für die Liste extrahiert und es kann direkt zum Video.
-
+Java EE 8 MVC 1.0 - Beispielanwendung zum actionbasierten Framework von Java EE. Die Anwendung dient zur Erfassung von Videos unter Hinzunahme des entsprechenden YouTube-Links. Letzteres dient dem Zugriff auf ein Vorschaubild zum Video.
 Verwendet wird die Referenzimplementierung Ozark und die Anwendung ist auf dem WildFly 10 lauffähig. 
 
 <p align="center"><br/>
