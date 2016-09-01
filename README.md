@@ -8,6 +8,17 @@ Verwendet wird die Referenzimplementierung Ozark und die Anwendung ist auf dem W
 
 http://localhost:8080/moviestore/mvc/movies
 
+## Film anlegen ##
+
+Wenn ein neuer Film über das Formular angelegt werden soll, wird nach der YouTube-Id gefragt. Diese Angabe ist optional.
+Die YouTube-Id findet man hinter dem URL-Parameter v des vollständigen Links zum Video.
+
+Beispiel:
+https://www.youtube.com/watch?v=gGkYW_CFTJk
+
+Die YouTube-Id für dieses Video lautet dann "gGkYW_CFTJk".
+
+
 ## Links ##
 
 * [JSR 371: Model-View-Controller (MVC 1.0) Specification](https://jcp.org/en/jsr/detail?id=371)
